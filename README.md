@@ -1,5 +1,5 @@
 <p align="center">
-<img width="211px" height="111px" src="https://file.garden/aTN1R0deYkPxCX0D/wedandjoey.png">
+<img width="211px" height="111px" src="https://file.garden/aTN1R0deYkPxCX0D/necrophazesticker">
 <p align="center">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
